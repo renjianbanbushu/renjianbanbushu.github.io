@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "人间半部书 / Site Title"
+title                    : "人间半部书"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
